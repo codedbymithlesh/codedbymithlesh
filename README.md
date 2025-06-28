@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedbymithlesh&label=Profile%20views&color=0e75b6&style=flat" alt="codedbymithlesh" /> </p>
 
-- 🌱 I’m currently learning **Html,css,Javascript**
+- 🌱 I’m currently learning **Javascript,AI,**
 
 - 📫 How to reach me **mithleshrajbhar23@gmail.com**
 
