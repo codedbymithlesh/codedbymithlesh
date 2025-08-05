@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Web%20Developer;AI%20Learner;Open%20Source%20Contributor&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Developer;Web%20Developer;AI%20Learner;Network%20Learner;Cyber%20Security%20Learner&center=true&width=380&height=45">
 </p>
 
 ---
