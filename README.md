@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN Stack Developer;Web%20Developer;React, Tailwind CSS, UI/UX;&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=MERN%20Stack Developer;React, Tailwind CSS, UI/UX&center=true&width=380&height=45">
 </p>
 
 ---
