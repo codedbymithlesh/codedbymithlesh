@@ -23,7 +23,7 @@
 
 ### 💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,php,python,mysql" />
 </p>
 
 ### ⚙️ Frameworks & Tools
