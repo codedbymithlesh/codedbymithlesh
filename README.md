@@ -3,16 +3,15 @@
 <h3 align="center">Frontend Developer • MERN Stack • Problem Solver • Gamer 🎮</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;MERN+Stack+Engineer;React+%7C+Node+%7C+MongoDB;Building+Cool+Web+Apps+Daily;Always+Learning+New+Tech&center=true&width=450&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Always+Learning+New+Tech&center=true&width=450&height=45">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 2nd Year BSc IT Student  
-💻 Focused on **Frontend + MERN Stack Development**  
-🌱 Currently learning **Advanced JavaScript, React, Backend & AI**  
+🎓 3rd Year BSc IT Student   
+🌱 Currently learning **Java Spring, Dotnet & Angular**  
 🧠 Love building **real-world projects**  
 🎮 Gamer + Tech Explorer  
 📫 Reach me: **mithleshrajbhar23@gmail.com**
@@ -46,7 +45,7 @@
 
 ---
 
-## 🔥 Featured Projects
+<!-- ## 🔥 Featured Projects
 
 ### 🩸 Blood Donation Management System
 PHP + MySQL based platform to find donors quickly  
@@ -55,7 +54,7 @@ PHP + MySQL based platform to find donors quickly
 ### 🚧 More Coming Soon...
 Currently building new MERN projects
 
----
+--- -->
 
 ## 🌐 Connect With Me
 
