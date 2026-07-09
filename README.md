@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋 I'm Mithlesh Rajbhar</h1>
-<h3 align="center">Frontend Developer • MERN Stack • Problem Solver • Gamer 🎮</h3>
+<h3 align="center">Frontend Developer • MERN Stack • Problem Solver</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;Always+Learning+New+Tech&center=true&width=450&height=45">
